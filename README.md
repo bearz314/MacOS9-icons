@@ -22,8 +22,12 @@ Classic Mac OS 9 resource icons
 
 ### 3. `png`
    - The icns files are converted to png with the online service [CoolUtils](https://www.coolutils.com/online/ICNS-to-PNG).
+   - Size: 512x512
+   
+### 4. `png 64px`
+   - `png` files downsized to 64x64 with Photoshop.
 
-### 4. `icns fixed`
+### 5. `icns fixed`
    - The png files are converted to valid icns files that Catalina is happy with.
    ```
    for filename in *.png; do
