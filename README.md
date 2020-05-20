@@ -3,6 +3,8 @@ Classic Mac OS 9 resource icons
 
 ## About the resources
 
+More write-ups in a blog post here: https://blog.warmwolf.com/2020/05/classic-mac-os-9-icons
+
 ### 1. `rsrc`
    - Original .rsrc files extracted by [NazoraioiSkadinaujo (DeviantArt)](https://www.deviantart.com/nazoraioiskadinaujo/art/Mac-OS-9-icons-for-OSX-95225656).
    - It seems impossible to find an application that can open rsrc files nowadays.
@@ -36,6 +38,7 @@ Classic Mac OS 9 resource icons
        iconutil -c icns $filename.iconset
    done
    ```
+
 
 ## Icons
 
